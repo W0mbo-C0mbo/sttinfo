@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<style> 
+		h1 {  color:rgb(255, 0, 0); text-align: center;}
+			
+		.img {text-align: center;}
+
+		h2 {text-align: center;}
+
+		h3 {text-align: center;}
+
+	
+
+		
+    </style>
+    <title>STT-Info</title>
+</head>
+
+<body>
+	
+
+	  
+
+
+<h1>St. Thomas Information</h1>
+
+	<div class="img"> <img src="https://www.nps.gov/pais/learn/nature/images/Hawksbill-Photo-Credit-US-Fish-and-Wildlife.jpg?maxwidth=650&autorotate=false"
+        alt="Hawksbill Turtle" width="25%"></div>
+
+    <h2>Diving at Coki Beach</h2>
+    
+    <h3>Photo: nps.gov</h3>  
+
+    <p>The island is serviced by the <a href="https://en.wikipedia.org/wiki/Cyril_E._King_International_Airport">Cyril E. King International Airport</a> and the <a href="https://en.wikipedia.org/wiki/Charlotte_Amalie_Harbor_Seaplane_Base">Charlotte Amalie Harbor <br>Seaplane Base.</a></p>
+<p><br>Passenger and limited car-ferry services to neighboring islands such as Water Island, Saint John,<br> Saint Croix, and the British Virgin Islands run regularly out of the Red Hook Terminal, Charlotte Amalie,<br> and Crown Bay Marina.<br></p>
+The United States Virgin Islands is the only place under United States jurisdiction where the rule of<br> the road is to <span style="color: red;">drive on the left</span>. This was inherited from what was the then-current Danish practice at<br> the time of the American acquisition in 1917. However, because the islands are a U.S. territory, most cars<br> are imported from the mainland United States and therefore the steering column is located on the left side of the vehicle.
+</p> 
+
+<h4>Schools</h4>
+<p><a href="https://en.wikipedia.org/wiki/St._Thomas-St._John_School_District">St. Thomas-St. John School District</a> operates public schools on Saint Thomas.<br>Private schools:<br>
+<ul>
+<li><a href="https://www.antilles.vi/">Antilles School</a></li>
+<li><a href="http://www.vimsia.org/">Virgin Islands Montessori School & Peter Gruber International Academy</a></li></ul></p>
+<ul>
+<p>Colleges and universities:<br><ul><li><a href="https://www.uvi.edu/index.html">University of the Virgin Islands</a></li></ul></p>
+
+
+</body>
+</html>
